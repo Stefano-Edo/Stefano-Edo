@@ -10,8 +10,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 <h2>📄 Certifications:</h2>
 
-- <b>CompTIA A+ Certification </b>
-- [CompTIA A+](file:///C:/Users/Owner/Downloads/CompTIA%20A+%20ce%20certificate.pdf)
+- <b>[CompTIA A+ Certification](https://imgur.com/TFbdlP9)</b>
 
 
 <h2> 🤳 Connect with me:</h2>
