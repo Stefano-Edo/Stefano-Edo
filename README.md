@@ -11,6 +11,7 @@
 <h2>📄 Certifications:</h2>
 
 - <b>CompTIA A+ Certification </b>
+-img.
 
 <h2> 🤳 Connect with me:</h2>
 
