@@ -5,7 +5,7 @@
 - <b>Active Directory Home Lab </b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/Stefano-Edo/PowerShell)
+  - [Creating 1000+ users with PowerShell](https://github.com/Stefano-Edo/PowerShell)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 <h2>📄 Certifications:</h2>
