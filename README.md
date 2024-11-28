@@ -11,7 +11,7 @@
 <h2>📄 Certifications:</h2>
 
 - <b>CompTIA A+ Certification </b>
--img.
+<img src="https://imgur.com/7XZudeM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h2> 🤳 Connect with me:</h2>
 
