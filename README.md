@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Active Directory Home Lab </b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Networking </b>
+  - [Active Directory Home Lab](https://github.com/Stefano-Edo/Networking/blob/main/README.md)
 - <b>PowerShell</b>
   - [Creating 1000+ users with PowerShell](https://github.com/Stefano-Edo/PowerShell)
 - <b>Python</b>
