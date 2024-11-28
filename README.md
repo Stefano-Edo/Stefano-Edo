@@ -3,9 +3,9 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Networking </b>
-  - [Configuring a workplace Netwrok](https://github.com/Stefano-Edo/Networking/blob/main/README.md)
+  - [Configuring a Workplace Network](https://github.com/Stefano-Edo/Networking/blob/main/README.md)
 - <b>PowerShell</b>
-  - [Creating 1000+ users with PowerShell](https://github.com/Stefano-Edo/PowerShell)
+  - [Creating 1000+ Users with PowerShell](https://github.com/Stefano-Edo/PowerShell)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 <h2>📄 Certifications:</h2>
