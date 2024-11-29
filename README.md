@@ -14,9 +14,7 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="www.linkedin.com/in/stefano-erhabor-66a359216" />][linkedin]
+[<img align="left" alt="Stefano-Edo | LinkedIn" width="22px" src="www.linkedin.com/in/stefano-erhabor-66a359216.svg" />][linkedin]
 <!--
 **Stefano-Edo/Stefano-Edo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
