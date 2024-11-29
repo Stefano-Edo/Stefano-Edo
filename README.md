@@ -7,7 +7,7 @@
 - <b>PowerShell</b>
   - [Creating 1000+ Users with PowerShell](https://github.com/Stefano-Edo/PowerShell)
 - <b>Home Lab Running Active Directory</b>
-  - [Active Simulated Workplace environment](https://github.com/Stefano-Edo/Home-Lab-Active-Directory)
+  - [Active Simulated Workplace Environment](https://github.com/Stefano-Edo/Home-Lab-Active-Directory)
 <h2>📄 Certifications:</h2>
 
 - <b>[CompTIA A+ Certification](https://imgur.com/TFbdlP9)</b>
